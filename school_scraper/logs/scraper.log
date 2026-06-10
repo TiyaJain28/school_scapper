@@ -1,0 +1,48 @@
+2026-06-10 08:08:48,637 [INFO] Loaded 2 schools from data/schools_input.csv
+2026-06-10 08:08:48,650 [INFO] Excel saved: output/schools_data.xlsx
+2026-06-10 08:08:48,651 [INFO] CSV saved: output/schools_data.csv
+2026-06-10 08:08:52,987 [INFO] Loaded 2 schools from data/schools_input.csv
+2026-06-10 08:08:52,987 [INFO] Enriching: The Brearley School
+2026-06-10 08:08:53,071 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/The_Brearley_School) for https://en.wikipedia.org/wiki/The_Brearley_School, attempt 1/3
+2026-06-10 08:08:55,143 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/The_Brearley_School) for https://en.wikipedia.org/wiki/The_Brearley_School, attempt 2/3
+2026-06-10 08:08:59,193 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/The_Brearley_School) for https://en.wikipedia.org/wiki/The_Brearley_School, attempt 3/3
+2026-06-10 08:08:59,236 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/The_Brearley_School_(New_York_City)) for https://en.wikipedia.org/wiki/The_Brearley_School_(New_York_City), attempt 1/3
+2026-06-10 08:09:01,280 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/The_Brearley_School_(New_York_City)) for https://en.wikipedia.org/wiki/The_Brearley_School_(New_York_City), attempt 2/3
+2026-06-10 08:09:05,325 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/The_Brearley_School_(New_York_City)) for https://en.wikipedia.org/wiki/The_Brearley_School_(New_York_City), attempt 3/3
+2026-06-10 08:09:05,327 [INFO] Wikipedia: no page found for The Brearley School
+2026-06-10 08:09:06,801 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/about) for https://brearley.org/about, attempt 1/3
+2026-06-10 08:09:08,936 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/about) for https://brearley.org/about, attempt 2/3
+2026-06-10 08:09:13,046 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/about) for https://brearley.org/about, attempt 3/3
+2026-06-10 08:09:13,152 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/about-us) for https://brearley.org/about-us, attempt 1/3
+2026-06-10 08:09:15,196 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/about-us) for https://brearley.org/about-us, attempt 2/3
+2026-06-10 08:09:19,324 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/about-us) for https://brearley.org/about-us, attempt 3/3
+2026-06-10 08:09:19,366 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/history) for https://brearley.org/history, attempt 1/3
+2026-06-10 08:09:21,496 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/history) for https://brearley.org/history, attempt 2/3
+2026-06-10 08:09:25,541 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/history) for https://brearley.org/history, attempt 3/3
+2026-06-10 08:09:25,585 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/) for https://brearley.org/, attempt 1/3
+2026-06-10 08:09:27,715 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/) for https://brearley.org/, attempt 2/3
+2026-06-10 08:09:31,816 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://brearley.org/) for https://brearley.org/, attempt 3/3
+2026-06-10 08:09:31,819 [INFO] Done: The Brearley School — founded=, students=, about=0 chars
+2026-06-10 08:09:31,819 [INFO] Enriching: Trinity School
+2026-06-10 08:09:31,894 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/Trinity_School) for https://en.wikipedia.org/wiki/Trinity_School, attempt 1/3
+2026-06-10 08:09:33,940 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/Trinity_School) for https://en.wikipedia.org/wiki/Trinity_School, attempt 2/3
+2026-06-10 08:09:37,990 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/Trinity_School) for https://en.wikipedia.org/wiki/Trinity_School, attempt 3/3
+2026-06-10 08:09:38,032 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/Trinity_School_(New_York_City)) for https://en.wikipedia.org/wiki/Trinity_School_(New_York_City), attempt 1/3
+2026-06-10 08:09:40,081 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/Trinity_School_(New_York_City)) for https://en.wikipedia.org/wiki/Trinity_School_(New_York_City), attempt 2/3
+2026-06-10 08:09:44,138 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://en.wikipedia.org/wiki/Trinity_School_(New_York_City)) for https://en.wikipedia.org/wiki/Trinity_School_(New_York_City), attempt 3/3
+2026-06-10 08:09:44,140 [INFO] Wikipedia: no page found for Trinity School
+2026-06-10 08:09:45,583 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/about) for https://trinityschoolnyc.org/about, attempt 1/3
+2026-06-10 08:09:47,810 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/about) for https://trinityschoolnyc.org/about, attempt 2/3
+2026-06-10 08:09:51,855 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/about) for https://trinityschoolnyc.org/about, attempt 3/3
+2026-06-10 08:09:51,949 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/about-us) for https://trinityschoolnyc.org/about-us, attempt 1/3
+2026-06-10 08:09:54,028 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/about-us) for https://trinityschoolnyc.org/about-us, attempt 2/3
+2026-06-10 08:09:58,073 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/about-us) for https://trinityschoolnyc.org/about-us, attempt 3/3
+2026-06-10 08:09:58,114 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/history) for https://trinityschoolnyc.org/history, attempt 1/3
+2026-06-10 08:10:00,160 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/history) for https://trinityschoolnyc.org/history, attempt 2/3
+2026-06-10 08:10:04,217 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/history) for https://trinityschoolnyc.org/history, attempt 3/3
+2026-06-10 08:10:04,259 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/) for https://trinityschoolnyc.org/, attempt 1/3
+2026-06-10 08:10:06,306 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/) for https://trinityschoolnyc.org/, attempt 2/3
+2026-06-10 08:10:10,351 [WARNING] HTTP error (403 Client Error: Forbidden for url: https://trinityschoolnyc.org/) for https://trinityschoolnyc.org/, attempt 3/3
+2026-06-10 08:10:10,353 [INFO] Done: Trinity School — founded=1709, students=, about=0 chars
+2026-06-10 08:10:10,363 [INFO] Excel saved: output/schools_data.xlsx
+2026-06-10 08:10:10,364 [INFO] CSV saved: output/schools_data.csv
